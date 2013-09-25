@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Diff: Views…",
+        "command": "diff_views"
+    },
+    {
+        "caption": "Diff: Selections…",
+        "command": "diff_selections"
+    }
+]
